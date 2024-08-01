@@ -35,7 +35,7 @@ group :development, :test do
   gem "dotenv-rails"
   gem "listen"
   gem "pry-byebug"
-  gem "rubocop", ">= 1.37.0"
+  gem "rubocop", ">= 1.65.1"
   gem "rubocop-discourse", ">= 3.0.1"
   gem "rubocop-performance", ">= 1.11.1"
   gem "rubocop-rails", ">= 2.17.0"
